@@ -1,0 +1,5 @@
+scenario,hqla,outflows,inflows,net_outflows,lcr,rag
+Basel standard,10050.0,9100.0,1291.6667,7808.3333,1.2871,Green
+Severe deposit run (1.5x run-off),10050.0,13650.0,1291.6667,12358.3333,0.8132,Red
+Run + 10% HQLA price fall,9000.0,13650.0,1291.6667,12358.3333,0.7283,Red
+"Extreme (2x run-off, 10% HQLA fall)",9000.0,18200.0,1291.6667,16908.3333,0.5323,Red

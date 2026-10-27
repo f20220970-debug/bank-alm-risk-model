@@ -1,0 +1,7 @@
+scenario,eve,delta_eve,share_of_tier1
+parallel up,10412.2864,30.3545,0.0055
+parallel down,11217.5511,835.6192,0.1519
+short up,11159.2198,777.2879,0.1413
+short down,9541.7374,-840.1945,-0.1528
+steepener,9395.4065,-986.5254,-0.1794
+flattener,11545.9929,1164.061,0.2116
